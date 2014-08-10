@@ -1,5 +1,7 @@
 # Idobadge
 
+[![Build Status](https://travis-ci.org/hanachin/idobadge.svg?branch=master)](https://travis-ci.org/hanachin/idobadge)
+
 Text badges generator for idobata.io generic webhook.
 
 ## Installation
