@@ -7,6 +7,8 @@
 
 Text badges generator for idobata.io generic webhook.
 
+![badges screenshot](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
