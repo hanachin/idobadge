@@ -1,6 +1,7 @@
 # Idobadge
 
 [![Build Status](https://travis-ci.org/hanachin/idobadge.svg?branch=master)](https://travis-ci.org/hanachin/idobadge)
+[![Code Climate](https://codeclimate.com/github/hanachin/idobadge/badges/gpa.svg)](https://codeclimate.com/github/hanachin/idobadge)
 
 Text badges generator for idobata.io generic webhook.
 
