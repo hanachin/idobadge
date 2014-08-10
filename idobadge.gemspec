@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Seiei Higa"]
   spec.email         = ["hanachin@gmail.com"]
   spec.summary       = %q{Text badges generator for idobata.io generic webhook.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/hanachin/idobadge"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
