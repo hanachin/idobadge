@@ -1,5 +1,5 @@
 # Idobadge
-
+[![Gem Version](https://badge.fury.io/rb/idobadge.svg)](http://badge.fury.io/rb/idobadge)
 [![Build Status](https://travis-ci.org/hanachin/idobadge.svg?branch=master)](https://travis-ci.org/hanachin/idobadge)
 [![Code Climate](https://codeclimate.com/github/hanachin/idobadge/badges/gpa.svg)](https://codeclimate.com/github/hanachin/idobadge)
 [![Test Coverage](https://codeclimate.com/github/hanachin/idobadge/badges/coverage.svg)](https://codeclimate.com/github/hanachin/idobadge)
