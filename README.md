@@ -4,6 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/hanachin/idobadge/badges/gpa.svg)](https://codeclimate.com/github/hanachin/idobadge)
 [![Test Coverage](https://codeclimate.com/github/hanachin/idobadge/badges/coverage.svg)](https://codeclimate.com/github/hanachin/idobadge)
 [![Dependency Status](https://gemnasium.com/hanachin/idobadge.svg)](https://gemnasium.com/hanachin/idobadge)
+[![Inline docs](http://inch-ci.org/github/hanachin/idobadge.png?branch=master)](http://inch-ci.org/github/hanachin/idobadge)
 
 Text badges generator for idobata.io generic webhook.
 
